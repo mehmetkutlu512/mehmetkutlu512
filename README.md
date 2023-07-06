@@ -5,7 +5,7 @@
 <p align="justify">I'm Software Developer Engineer in Test (SDET) - QA Automation Engineer with abilities and expertise in Automation and Manual Testing of Web Applications and Client-Server Applications using Java, Selenium, Cucumber, JUnit, TestNG, Maven and other popular libraries such as JDBC, REST Assured.  </p>
 
 <ul>
-  <li>Backend, Frontend and Mobile Testing</li>
+  <li>UI, Api and Database Testing</li>
   <li>Automation testing with Selenium, JUnit, TestNG, Cucumber</li>
   <li>Manuel Testing</li>
   <li>Test case writing</li>
